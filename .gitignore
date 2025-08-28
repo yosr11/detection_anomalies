@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FastAPI generated
+output/
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Environnements / IDE
+.env
+*.log
+.DS_Store
+Thumbs.db
